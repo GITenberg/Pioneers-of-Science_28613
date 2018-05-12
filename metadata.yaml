@@ -1,0 +1,33 @@
+_repo: Pioneers-of-Science_28613
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28613-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lodge, Oliver, Sir
+    aliases:
+    - Lodge, Sir Oliver J.
+    - Lodge, Oliver Joseph, Sir
+    birthdate: 1851
+    deathdate: 1940
+    gutenberg_agent_id: '31912'
+    url: http://www.gutenberg.org/2009/agents/31912
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Lodge
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2009-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tides'
+- !lcsh 'Astronomy -- History'
+- !lcc 'QB'
+- !lcsh 'Astronomers'
+title: Pioneers of Science
+url: http://www.gutenberg.org/ebooks/28613
